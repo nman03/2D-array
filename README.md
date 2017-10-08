@@ -1,5 +1,4 @@
-# 2D-array
-2D array iteration exercise
+# two-dimension-array-averages
 
 -create array method
 -display array method
